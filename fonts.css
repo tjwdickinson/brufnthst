@@ -1,0 +1,28 @@
+@font-face{
+  font-family: 'Brussels';
+  src: url('font/Brussels-Demi.woff') format('woff'),
+       url('font/Brussels-Demi.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face{
+  font-family: 'Brussels';
+  src: url('font/Brussels-DemiItalic.woff') format('woff'),
+       url('font/Brussels-DemiItalic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face{
+  font-family: 'Brussels';
+  src: url('font/Brussels-LightItalic.woff') format('woff'),
+       url('font/Brussels-LightItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face{
+  font-family: 'Brussels';
+  src: url('font/Brussels-Light.woff') format('woff'),
+       url('font/Brussels-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
